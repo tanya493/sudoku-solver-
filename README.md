@@ -103,10 +103,7 @@ sudoku-solver/
 
 ## 👩‍💻 Author
 
-**Tanya** — PBL Project, B.Tech CSE
+**Tanya** — B.Tech CSE
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+.
